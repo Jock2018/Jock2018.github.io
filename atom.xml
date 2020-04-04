@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-04-04T06:08:48.897Z</updated>
+  <updated>2020-04-04T13:06:59.535Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Python入门之Python开发环境</title>
+    <link href="http://yoursite.com/2020/04/04/Python%E5%85%A5%E9%97%A8%E4%B9%8BPython%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/"/>
+    <id>http://yoursite.com/2020/04/04/Python%E5%85%A5%E9%97%A8%E4%B9%8BPython%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</id>
+    <published>2020-04-04T13:06:59.535Z</published>
+    <updated>2020-04-04T13:06:59.535Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
